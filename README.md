@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/laharilaharika/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0189-rotate-array) |
 | [0826-soup-servings](https://github.com/laharilaharika/leetcode-codes/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
 ## Segment Tree
 |  |
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/laharilaharika/leetcode-codes/tree/master/0826-soup-servings) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
