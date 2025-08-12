@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0189-rotate-array) |
+| [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
