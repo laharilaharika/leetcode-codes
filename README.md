@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/laharilaharika/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/laharilaharika/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/laharilaharika/leetcode-codes/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/laharilaharika/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3790-fruits-into-baskets-ii) |
