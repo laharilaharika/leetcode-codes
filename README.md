@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/laharilaharika/leetcode-codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/laharilaharika/leetcode-codes/tree/master/1625-group-sold-products-by-the-date) |
 ## Binary Search
 |  |
