@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/laharilaharika/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/laharilaharika/leetcode-codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/laharilaharika/leetcode-codes/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/laharilaharika/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/laharilaharika/leetcode-codes/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/laharilaharika/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/laharilaharika/leetcode-codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/laharilaharika/leetcode-codes/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/laharilaharika/leetcode-codes/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
