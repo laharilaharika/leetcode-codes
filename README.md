@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/laharilaharika/leetcode-codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/laharilaharika/leetcode-codes/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/laharilaharika/leetcode-codes/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/laharilaharika/leetcode-codes/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
