@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/laharilaharika/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/laharilaharika/leetcode-codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0826-soup-servings](https://github.com/laharilaharika/leetcode-codes/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/laharilaharika/leetcode-codes/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/laharilaharika/leetcode-codes/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
