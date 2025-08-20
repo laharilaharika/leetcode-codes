@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/laharilaharika/leetcode-codes/tree/master/0596-classes-with-at-least-5-students) |
 | [1155-product-sales-analysis-iii](https://github.com/laharilaharika/leetcode-codes/tree/master/1155-product-sales-analysis-iii) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/laharilaharika/leetcode-codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/laharilaharika/leetcode-codes/tree/master/1625-group-sold-products-by-the-date) |
