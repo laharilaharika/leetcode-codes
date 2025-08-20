@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/laharilaharika/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/laharilaharika/leetcode-codes/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/laharilaharika/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/laharilaharika/leetcode-codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
