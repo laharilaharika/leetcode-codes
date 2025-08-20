@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/laharilaharika/leetcode-codes/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/laharilaharika/leetcode-codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/laharilaharika/leetcode-codes/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/laharilaharika/leetcode-codes/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1448-maximum-69-number](https://github.com/laharilaharika/leetcode-codes/tree/master/1448-maximum-69-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/laharilaharika/leetcode-codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/laharilaharika/leetcode-codes/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/laharilaharika/leetcode-codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/laharilaharika/leetcode-codes/tree/master/2283-sort-even-and-odd-indices-independently) |
 ## Counting
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/laharilaharika/leetcode-codes/tree/master/0342-power-of-four) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/laharilaharika/leetcode-codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
