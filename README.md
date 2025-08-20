@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/laharilaharika/leetcode-codes/tree/master/1155-product-sales-analysis-iii) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/laharilaharika/leetcode-codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/laharilaharika/leetcode-codes/tree/master/1625-group-sold-products-by-the-date) |
+| [1877-find-followers-count](https://github.com/laharilaharika/leetcode-codes/tree/master/1877-find-followers-count) |
 ## Binary Search
 |  |
 | ------- |
