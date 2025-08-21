@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/laharilaharika/leetcode-codes/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/laharilaharika/leetcode-codes/tree/master/0038-count-and-say) |
 | [0299-bulls-and-cows](https://github.com/laharilaharika/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/laharilaharika/leetcode-codes/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2346-largest-3-same-digit-number-in-string) |
