@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/laharilaharika/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/laharilaharika/leetcode-codes/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/laharilaharika/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/laharilaharika/leetcode-codes/tree/master/0014-longest-common-prefix) |
+| [0299-bulls-and-cows](https://github.com/laharilaharika/leetcode-codes/tree/master/0299-bulls-and-cows) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/laharilaharika/leetcode-codes/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
