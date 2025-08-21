@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/laharilaharika/leetcode-codes/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Segment Tree
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/laharilaharika/leetcode-codes/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
