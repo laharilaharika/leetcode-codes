@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/laharilaharika/leetcode-codes/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/laharilaharika/leetcode-codes/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/laharilaharika/leetcode-codes/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/laharilaharika/leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3790-fruits-into-baskets-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/laharilaharika/leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/laharilaharika/leetcode-codes/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/laharilaharika/leetcode-codes/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## String
 |  |
 | ------- |
