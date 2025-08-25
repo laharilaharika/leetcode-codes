@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/laharilaharika/leetcode-codes/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/laharilaharika/leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/laharilaharika/leetcode-codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/laharilaharika/leetcode-codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/laharilaharika/leetcode-codes/tree/master/0940-fruit-into-baskets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/laharilaharika/leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/laharilaharika/leetcode-codes/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/laharilaharika/leetcode-codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/laharilaharika/leetcode-codes/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/laharilaharika/leetcode-codes/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
