@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/laharilaharika/leetcode-codes/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/laharilaharika/leetcode-codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/laharilaharika/leetcode-codes/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2887-sort-vowels-in-a-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/laharilaharika/leetcode-codes/tree/master/0344-reverse-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/laharilaharika/leetcode-codes/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/laharilaharika/leetcode-codes/tree/master/2887-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
