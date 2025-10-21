@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/laharilaharika/leetcode-codes/tree/master/0185-department-top-three-salaries) |
 | [0596-classes-with-at-least-5-students](https://github.com/laharilaharika/leetcode-codes/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/laharilaharika/leetcode-codes/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/laharilaharika/leetcode-codes/tree/master/0626-exchange-seats) |
